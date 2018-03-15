@@ -1,0 +1,12 @@
+# build files 
+*.so 
+*.o 
+*.a 
+*.out 
+
+# text editor backup files 
+*~ 
+
+# data files
+*.root 
+
